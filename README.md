@@ -1,3 +1,14 @@
+# 以下为作业截图
+
+![](./img/2022-09-16-16-19-29.png)  
+create kitties
+
+![](./img/2022-09-16-16-20-38.png)  
+transfer kitties
+
+![](./img/2022-09-16-16-21-37.png)  
+breed kitties
+
 # Substrate Front End Template
 
 This template allows you to create a front-end application that connects to a
@@ -48,7 +59,6 @@ https://substrate-developer-hub.github.io/substrate-front-end-template?rpc=ws://
 
 Connecting to the development Substrate node `wss://dev-node.substrate.dev`:<br/>
 https://substrate-developer-hub.github.io/substrate-front-end-template
-
 
 ## Configuration
 
